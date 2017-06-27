@@ -9,6 +9,7 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
+    "prettier": "^1.4.4",
     "react-scripts": "1.0.7"
   },
   "scripts": {
