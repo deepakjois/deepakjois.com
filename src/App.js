@@ -1,9 +1,12 @@
-import React, { Component } from 'react'
-import logo from './logo.svg'
-import './App.css'
+import React, { Component } from 'react';
+import logodeva from './logo-deva.svg';
+import logolatn from './logo-latn.svg';
+import './App.css';
 
 class App extends Component {
   render() {
+    let choice = Math.round(Math.random());
+    let logo = [logodeva, logolatn][choice];
     return (
       <div className="container">
         <div className="row">
@@ -51,8 +54,8 @@ class App extends Component {
           </div>
         </div>
       </div>
-    )
+    );
   }
 }
 
-export default App
+export default App;
