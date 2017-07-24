@@ -26,7 +26,8 @@ class App extends Component {
               </a>{' '}
               enthusiast from India. Previously used to work at{' '}
               <a href="https://soundcloud.com">Soundcloud</a> and{' '}
-              <a href="https://www.amazon.com">Amazon</a>, among other places.
+              <a href="https://aws.amazon.com">Amazon Web Services</a>, among
+              other places.
             </h4>
 
             <ul className="links">
