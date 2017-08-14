@@ -51,6 +51,12 @@ class App extends Component {
                   <a href="http://twitter.com/debugjois">Twitter</a>
                 </h3>
               </li>
+              <li>
+                <h3>
+                  <i className="fa fa-medium" aria-hidden="true" />{' '}
+                  <a href="https://medium.com/@debugjois">Medium</a>
+                </h3>
+              </li>
             </ul>
           </div>
         </div>
