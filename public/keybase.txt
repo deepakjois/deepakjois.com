@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/debugjois
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.deepakjois.com
+  * I am debugjois (https://keybase.io/debugjois) on keybase.
+  * I have a public key with fingerprint B745 7F64 BD5B D5AD 04AC  3A19 77DA 8872 520D A130
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ea53c7fe9e67daf43bae70cd290abd4ff9bef912271b2002c21c85619071c9110a",
+      "fingerprint": "b7457f64bd5bd5ad04ac3a1977da8872520da130",
+      "host": "keybase.io",
+      "key_id": "77da8872520da130",
+      "kid": "0101ea53c7fe9e67daf43bae70cd290abd4ff9bef912271b2002c21c85619071c9110a",
+      "uid": "c5bc21ebd76aa3989fc55a58703c8919",
+      "username": "debugjois"
+    },
+    "service": {
+      "hostname": "www.deepakjois.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1502708783,
+  "expire_in": 157680000,
+  "prev": "8741d55fd9717e4729d33bd95bd427111128425b19b6848d9e0cb51cd36f68b4",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUntQVFUYX0CQgBXNYSCeeSWJWpf73HPvykzRiBOR6EjZFAO3+zh3ubvs3vXu
+Lk9hI3uYaYKOCiqI2GAztT3UiQSNyWGN3GoGYaaEJLIIRSBLKyUbupex//qzb87M
+mfN9v9/ve5yvyRhhiA6rGtmubjIeRcNC13jD882vgDqEV8QaxFqHOODCBStE6PGy
+DllErAiKoRjkKEIAEmSgBYicRBI8BwEqiDiDcrxIShLDQ4nBcBxgPI6iuIBjAk1Z
+MAYFmMBgGMohJkSSXTaoulXZ5dVkeUBSQLKQvEhphxNRkhMIDmOAloCmAU7hqMhh
+BKoRyxWPztCK4zkPNMuK5tMe7EJ5/4H/n+v2LcgJFK9FIS8CC8cRDM1IAkVxFA1Q
+QqAZjNGBHqi6OCfU0CLkfTa7InuQehOiuStlAeqT1Vu5B6mqqjKLELo5h44zC4pT
+k3CrilcRlAotXu71uj1Wne+tcS8QIM/ek2J52SVq49QYlVD1yIoLsWIaUvDKujZG
+oThAaUATJgRWu2UVsrKOoICFRjXT88BKTZKlAYmJFCWJDMAAJAHOiATBi4z2J6Q2
+FM1wmsQpHmN4C03SIgNRgacwQSQskoXmSUTvbotLQaykVidn0zQ9ss3FeX0qROpj
+3ghPXWQIizZERYbri2aIuW/pv9v31Pn4eXfKOmNOEdV2PbKJPGCPZVsvVazIvNIa
+at+RaysIRPgd6W8lO/wd+zKHAk21p9MKgy18T/PhtVPPVrJTTDD2kWBmcZL77WNF
+zpS435S/jxR0jYd9uzk+dtH8KX9gpTEt6Jy8at/27lHpwnhg/aDH2Lv+9rHLpxvy
+G+ee6d9f7/5OXdEz/NwMiCED5ER9cXv2iajEAS6+K/5q4esHCsOjNgYbTpl/HH1h
+3c/z3zsLjg8S20pn+vqy7ctSXl5qr8seTbzzyeIx1+O2B7v6hkcysvxfTnSevJBU
+kNduKhryTUem9z85GtqyP+nMsDqz4dNzU+KtgffHL2Lh19KXmbAzDwfj8qN3lQVC
+r6650dkmSkOtJTfvLylulJ4+NxC1xm/3/tSdzPq7B65/fOQj7xOXju/NzfiwMcKx
+fVqQ5mp8M0LfVmd+0mpuujpUcnbmZovZN/aF2eas7hhyN/Wyd69kza6anUxJXl7e
+ZNv9QBulrt4DqH7T3EO7x4eW0O/13Tmch2eWbd37wUa//2vfHzusOXxW52M/BAwv
+1hS37Qm803t5ya2L3ftObhgI5Jzf2TFWm/DZ2dt/7lwZyvgGS0PBwYnX0LiDiaml
+3bs2JXz+65uTs7UtXc1lhyJy76KPLveH/WVMXBuI+8U8WBA7nTWSnfpSeQ9u+Or3
+xNqE2dI8tiF51eYT2Tdacy3/AA==
+=91+Z
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/debugjois
+
+==================================================================
