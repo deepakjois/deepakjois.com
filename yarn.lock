@@ -3925,9 +3925,9 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-lint-staged@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-4.0.3.tgz#1ce55591bc2c83a781a90b69a0a0c8aa0fc6370b"
+lint-staged@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-4.0.4.tgz#9ca6968b30dfbfe81365b7a763cd4f4992896553"
   dependencies:
     app-root-path "^2.0.0"
     cosmiconfig "^1.1.0"
@@ -4249,9 +4249,9 @@ mimic-fn@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/mimic-fn/-/mimic-fn-1.1.0.tgz#e667783d92e89dbd342818b5230b9d62a672ad18"
 
-mini.css@^2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/mini.css/-/mini.css-2.3.3.tgz#82ef7d29aa5745025d5d15312e8e58f1bdfaf55f"
+mini.css@^2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/mini.css/-/mini.css-2.3.4.tgz#94481945a20e038596eea7a2d8abe079d0e2ef13"
 
 minimalistic-assert@^1.0.0:
   version "1.0.0"
