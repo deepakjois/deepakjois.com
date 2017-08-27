@@ -13,12 +13,3 @@ a {
   text-decoration: none;
 }
 
-ul.links {
-  text-align: center;
-  list-style-type: none;
-}
-
-ul.links li {
-  padding: 0 0.5em;
-  display: inline-block;
-}
